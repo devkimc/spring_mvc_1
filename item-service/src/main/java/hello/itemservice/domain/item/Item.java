@@ -15,4 +15,8 @@ public class Item {
         this.price = price;
         this.quantity = quantity;
     }
+
+    public Item() {
+
+    }
 }
